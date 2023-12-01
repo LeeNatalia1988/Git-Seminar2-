@@ -1,6 +1,4 @@
 
-//package main.Seminar_1;
-
 import java.util.Scanner;
 
 public class Task_1 {
