@@ -1,5 +1,4 @@
 
-//package main.Seminar_1; - заменить исходник
 //package main.Seminar_1;
 
 import java.util.Scanner;
